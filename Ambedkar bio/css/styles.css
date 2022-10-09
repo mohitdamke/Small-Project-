@@ -1,0 +1,56 @@
+body{
+  background-color: #DBC8AC;
+  margin: 10%;
+}
+
+#title{
+  text-align: center;
+  text-shadow: 5px 5px 10px white;
+  font-size: 4vh;
+  color: #293462;
+}
+
+.caption{
+  text-align: center;
+  font-size: 15px;
+  font-family: serif;
+  color: #A62349;
+}
+
+.Footer{
+text-align: right; 
+}
+
+.tribute-data{
+  background-color: #F8EDE3;
+  box-shadow: 20px 20px 20px #FFD6EC;
+  font-family: sans-serif;
+  padding: 25px 25px;
+  margin: 11px;
+  margin-top: 50px;
+}
+
+.title-dr{
+  font-size: 35px;
+  color: #FFABE1;
+  text-align: center;
+}
+
+
+#AmbedkarPhoto{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#tribute-link{
+  font-size: 16px;
+  text-decoration: none;
+  color: #8758FF;
+}
+
+.para{
+  text-align: center;
+  color: #319DA0;
+}
